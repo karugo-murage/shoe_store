@@ -17,5 +17,9 @@ span{
 }
 ul>li {
     margin-left: 3rem;
-
+    font-family: ubuntu;
+}
+.title{
+    font-style: oblique;
+    text-shadow: 1rem;
 }
